@@ -94,7 +94,7 @@ Right Align columns
 
 
 ## Links
-(Link text)(izrem0417.github.io)
+(izrem0417.github.io)
 
 ## Images
 !(https://www.facebook.com/photo/?fbid=1620878934716524&set=a.282957948508636)
